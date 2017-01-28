@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Télécommande Livebox (non officiel)",
 	"description": "Télécommande non officiel pour le livebox décodeur TV 4 orange.",
-	"version": "0.1",
+	"version": "0.1.1",
 	"icons": {
 		"128": "128.png"
 	},
