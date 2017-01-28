@@ -75,7 +75,7 @@ const url3 = "&mode=" ;
 		document.getElementById("btnUp").onclick = function() { sendKey("103"); };
 		document.getElementById("btnDown").onclick = function() { sendKey("108"); };
 		document.getElementById("btnLeft").onclick = function() { sendKey("105"); };
-		document.getElementById("btnRight").onclick = function() { sendKey("116"); };
+		document.getElementById("btnRight").onclick = function() { sendKey("106"); };
 		document.getElementById("btnOk").onclick = function() { sendKey("352"); };
 	
 		// Channel number
